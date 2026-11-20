@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -49,6 +49,9 @@
 <h2>Tipos primitivos ESPECIAIS</h2>
 - NULL <br>
 - RESOURCE
+
+
+<a href = "strings.php"> <h3>Link para strings.php</h3></a>
 </body>
 
 </html>
